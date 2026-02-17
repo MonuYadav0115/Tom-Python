@@ -1,6 +1,6 @@
 # check the gender 
 
-gender = input("Enter her:")
+gender = input("Enter here:")
 
 if gender == "m" or gender =="M":
     print("Male")
